@@ -4,11 +4,11 @@
 
 Gist Profile About me:
 
-- 🤩 I’m very passionate about Front End Development and Videogames!
+- 🤩 I’m very passionate about Front End Development and videogames!
 - 🔭 I’m currently working on getting a job in my field and improving my skills
 - 🌱 I’m currently learning about everything 😎
 - 👯 I’m a team player. Team work is the key to success!
-- 💬 Ask me about: Sports, videogames, coding, etc
+- 💬 Ask me about: sports, videogames, coding, etc
 - 📫 How to reach me: moises.c.diaz7@gmail.com
 - 😄 Nicknames: Moe
 - ⚡ Fun fact: The first programmer in the world was a woman. Her name was Ada Lovelace and she worked on an analytical engine back in the 1,800’s.
