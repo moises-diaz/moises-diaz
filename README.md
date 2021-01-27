@@ -11,7 +11,7 @@ Gist Profile About me:
 - 💬 Ask me about: sports, videogames, coding, etc
 - 📫 How to reach me: moises.c.diaz7@gmail.com
 - 😄 Nicknames: Moe
-- ⚡ Fun fact: The first programmer in the world was a woman. Her name was Ada Lovelace and she worked on an analytical engine back in the 1,800’s.
+- ⚡ Historical fact: The first programmer in the world was a woman. Her name was Ada Lovelace and she worked on an analytical engine back in the 1,800’s.
 
 -->
 
