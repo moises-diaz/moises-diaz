@@ -2,7 +2,7 @@
 
 [![HitCount](http://hits.dwyl.com/moises-diaz/moises-diaz.svg)](http://hits.dwyl.com/moises-diaz/moises-diaz)
 
-Gist Profile About me:
+More About me:
 
 - 🤩 I’m very passionate about Front End Development and videogames!
 - 🔭 I’m currently working on getting a job in my field and improving my skills
