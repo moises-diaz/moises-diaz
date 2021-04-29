@@ -1,6 +1,6 @@
 ### Hi there! I’m Moisés Diaz👋
 
-[![HitCount](http://hits.dwyl.com/moises-diaz/moises-diaz.svg)](http://hits.dwyl.com/moises-diaz/moises-diaz)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmoises-diaz)
 
 More About me:
 
