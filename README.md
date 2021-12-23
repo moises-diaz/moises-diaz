@@ -9,7 +9,7 @@ More About me:
 - 🌱 I’m currently learning about everything 😎
 - 👯 I’m a team player. Team work is the key to success!
 - 💬 Ask me about: sports, videogames, coding, etc
-- 📫 How to reach me: moises.c.diaz7@gmail.com
+- 📫 How to reach me: moisescdiaz94@gmail.com
 - 😄 Nicknames: Moe
 - ⚡ Historical fact: The first programmer in the world was a woman. Her name was Ada Lovelace and she worked on an analytical engine back in the 1,800’s.
 
