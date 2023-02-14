@@ -5,10 +5,10 @@
 More About me:
 
 - 🤩 I’m very passionate about Development and playing videogames!
-- 🔭 I’m currently working on getting a job in my field and improving my skills
-- 🌱 I’m currently learning about everything 😎
+- 🔭 I’m currently working on a great company and I'm very happy!
+- 🌱 I’m currently learning about everything little by little😎
 - 👯 I’m a team player. Team work is the key to success!
-- 💬 Ask me about: sports, videogames, coding, etc
+- 💬 Ask me about: Soccer, videogames, coding, in that order!
 - 📫 How to reach me: moisescdiaz94@gmail.com
 - 😄 Nicknames: Moe
 - ⚡ Historical fact: The first programmer in the world was a woman. Her name was Ada Lovelace and she worked on an analytical engine back in the 1,800’s.
