@@ -4,7 +4,7 @@
 
 More About me:
 
-- 🤩 I’m very passionate about Front End Development and videogames!
+- 🤩 I’m very passionate about Development and playing videogames!
 - 🔭 I’m currently working on getting a job in my field and improving my skills
 - 🌱 I’m currently learning about everything 😎
 - 👯 I’m a team player. Team work is the key to success!
