@@ -19,4 +19,4 @@ More About me:
 
 ### 
 
-I am a passionate Software Developer constantly learning about multiple ways to solve problems, and to make my life a lot easier. I strongly believe innovation is the key for a better future. Living in a world where everything is moving by technology I personally think coding should be an asset for everyone who wants a better place to live. I love testing new technologies, and learning more about them :)
+Bilingual Developer. That's always good, eh!?
