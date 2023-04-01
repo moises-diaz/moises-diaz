@@ -5,7 +5,7 @@
 
   ### Hi there! I’m Moisés Diaz👋
   
-  <h3 align="center"> A passionate Software Developer from Venezuela and currently living in Canada. I consider myself someone that enjoys challenges and that loves to learn every single day about new technologies, code, and videogames. I like coding, but I love even more StackOverflow! </h3> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoises-diaz&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  <h3 align="center"> A passionate Software Developer from Venezuela and currently living in Canada. I consider myself someone that enjoys challenges and that loves to learn every single day about new technologies, code, and videogames. I like coding, but I love even more StackOverflow! </h3>
   
  <div id="badges" align="center">
    <a href="https://twitter.com/SoyTwiter0" target="_blank"
@@ -21,7 +21,7 @@
  
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moises-diaz&theme=onedark-duo&hide_border=true)](https://git.io/streak-stats)
  
- 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moises-diaz)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 ###
