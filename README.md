@@ -7,12 +7,11 @@
   
   <h3 align="center"> A passionate Software Developer from Venezuela and currently living in Canada. I consider myself someone that enjoys challenges and that loves to learn every single day about new technologies, code, and videogames. I like coding, but I love even more StackOverflow! </h3>
   
- <div id="badges" align="center">
-   <a href="https://twitter.com/SoyTwiter0" target="_blank"
-       <img src="https://img.shields.io/twitter/follow/SoyTwiter0?logo=twitter&style=for-the-badge" alt="Twitter Badge" />
- 
  </div>
  
+  <div id="badges" align="center">
+   <a href="https://twitter.com/SoyTwiter0" target="_blank"
+       <img src="https://img.shields.io/twitter/follow/SoyTwiter0?logo=twitter&style=for-the-badge" />
 
  ---
  
@@ -22,7 +21,7 @@
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moises-diaz&show_icons=true&theme=dark)
 
-<![](https://img.shields.io/badge/<![](https://img.shields.io/badge/>-<.NET>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)>-<.NETT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 ###
 ###
