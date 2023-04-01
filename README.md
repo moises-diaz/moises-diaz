@@ -6,10 +6,11 @@
 <h1 align="center">Hi 👋, I'm Moises Diaz</h1>
 <h3 align="center">A passionate Software Developer from Venezuela and currently living in Canada. I consider myself someone that enjoys challenges and that loves to learn every single day about new technologies, code, and videogames. I like coding, but I love even more StackOverflow!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moises-diaz&label=Profile%20views&color=0e75b6&style=flat" alt="moises-diaz" /> </p>
 
 <p align="left"> <a href="https://twitter.com/soytwiter0" target="blank"><img src="https://img.shields.io/twitter/follow/soytwiter0?logo=twitter&style=for-the-badge" alt="soytwiter0" /></a> </p>
 
+  ---
+  
 - 👯 I’m looking to collaborate on **different github repositories**
 
 - 💬 Ask me about **Code, Sports, videogames, and movies**
