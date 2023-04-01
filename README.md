@@ -1,22 +1,27 @@
-### Hi there! I’m Moisés Diaz👋
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoises-diaz&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-More About me:
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" />
 
-- 🤩 I’m very passionate about Development and playing videogames!
-- 🔭 I’m currently working on a great company and I'm very happy!
-- 🌱 I’m currently learning about everything little by little😎
-- 👯 I’m a team player. Team work is the key to success!
-- 💬 Ask me about: Soccer, videogames, coding, in that order!
-- 📫 How to reach me: moisescdiaz94@gmail.com
-- 😄 Nicknames: Moe
-- ⚡ Historical fact: The first programmer in the world was a woman. Her name was Ada Lovelace and she worked on an analytical engine back in the 1,800’s.
 
--->
+  ### Hi there! I’m Moisés Diaz👋
+  
+  <h3 align="center"> A passionate Software Developer from Venezuela and currently living in Canada. I consider myself someone that enjoys challenges and that loves to learn every single day about new technologies, code, and videogames. I like coding, but I love even more StackOverflow! </h3>
+  
+ <div id="badges" align="center">
+   <a href="https://twitter.com/SoyTwiter0" target="_blank"
+       <img src="https://img.shields.io/twitter/follow/SoyTwiter0?logo=twitter&style=for-the-badge" alt="Twitter Badge" />
+ 
+ </div>
+ </div>
+ 
+ ---
+ 
+ ### My Stats :
+ 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moises-diaz&theme=onedark-duo&hide_border=true)](https://git.io/streak-stats)
+ 
+ 
 
-- 🐣 [Check out my Twitter](https://twitter.com/Soytwiter0)
-
-### 
-
-Bilingual Developer. That's always good, eh!?
+###
+###
