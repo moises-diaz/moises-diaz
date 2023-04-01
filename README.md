@@ -21,7 +21,7 @@
  
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moises-diaz&theme=onedark-duo&hide_border=true)](https://git.io/streak-stats)
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moises-diaz)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moises-diaz&show_icons=true&theme=dark)
 
 ###
 ###
