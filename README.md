@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Moises Diaz</h1>
-<h3 align="center">A passionate Software Developer from Venezuela and currently living in Canada. I consider myself someone that enjoys challenges and that loves to learn every single day about new technologies, code, and videogames. I like to code by myself, but I like even more asking questions on StackOverflow!</h3>
+<h3 align="center">A passionate Software Developer graduated from Conestoga College. I consider myself someone that enjoys challenges and that loves to learn every single day about new technologies, coding, and upcoming videogames. I like to code a lot, but I like even more asking questions on StackOverflow!</h3>
 
 
   ---
