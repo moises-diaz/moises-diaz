@@ -9,13 +9,15 @@
 
   ---
   
-- 👯 I’m looking to collaborate on **different github repositories**
+- 👯 I’m looking to collaborate on **different github repositories whenever I can**
 
-- 💬 Ask me about **Code, Sports, videogames, and movies**
+- 💬 Ask me about **Code, Sports, Videogames, and Movies**
 
 - 📫 How to reach me **moisescdiaz94@gmail.com**
 
-- Currently working for an amazing company called GolfNorth Properties in Kitchener, Ontario.
+- 🤖 Currently working for an amazing company called GolfNorth Properties.
+  
+  
   
 ---
   
