@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Moises Diaz</h1>
-<h3 align="center">A passionate Software Developer graduated from Conestoga College. I consider myself someone that enjoys challenges, puzzles, trivias, etc. I love to learn a bit about anything every single day I am alive, and when I say anything I mean about new technologies, devices, coding, ChatGTP, and upcoming videogames. I like to code a lot, but I like even more playing League of Legends! (Pssst that is why I am a Grandmaster)</h3>
+<h3 align="center">A passionate Software Developer graduated from Conestoga College. I consider myself someone that enjoys challenges, puzzles, trivias, etc. I love to learn a bit about anything every single day that I am alive, and when I say anything I mean about new technologies, devices, coding, ChatGTP, and upcoming videogames. I like to code a lot, but I like even more playing League of Legends! (Pssst, that is because I am a Grandmaster player)</h3>
 
 
   ---
