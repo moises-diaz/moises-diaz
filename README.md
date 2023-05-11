@@ -9,9 +9,9 @@
 
   ---
   
-- 👯 I’m looking to collaborate on **different github repositories whenever I can**
+- 🤙🏻 I’m looking to collaborate on **different github repositories whenever I can**
 
-- 💬 Ask me about **Code, Sports, Videogames, and Movies**
+- 💬 Ask me about **Code, Sports, Videogames, and Horror Movies**
 
 - 📫 How to reach me **moisescdiaz94@gmail.com**
 
