@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **moisescdiaz94@gmail.com**
 
-- 🤖 Currently working for an amazing company called GolfNorth Properties.
+- 🤖 Currently working for a golf company called GolfNorth Properties.
   
   
   
